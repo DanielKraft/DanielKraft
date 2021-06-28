@@ -1,4 +1,4 @@
-# Hi 👋, I'm Daniel Kraft
+# Hi 👋, I'm Daniel
 
 <p align="center">
   <a href="https://github.com/DanielKraft">
